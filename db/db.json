@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "title": "Groceries",
+    "text": "tortillas, hot sauce, pickles",
+    "id": "64007"
+  },
+  { "title": "Laundry", "text": "wash sheets & towels", "id": "33388" },
+  { "title": "Barre", "text": "go to barre class at 4:30", "id": "21345" },
+  { "title": "Dinner", "text": "grilled chicken salads", "id": "55050" },
+  { "title": "Attend class", "text": "from 7:30 to 10:30pm!", "id": "81685" }
+]
